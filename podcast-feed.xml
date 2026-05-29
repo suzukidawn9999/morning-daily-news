@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>AIこだわりニュース</title>
+    <link>https://suzukidawn9999.github.io/morning-daily-news/</link>
+    <description>毎朝のAIパーソナライズニュースラジオ</description>
+    <language>ja</language>
+    <itunes:author>AIこだわりニュース</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>テスト: 2026-05-29</title>
+      <enclosure url="https://suzukidawn9999.github.io/morning-daily-news/audio/2026-05-29.wav" type="audio/wav" length="0"/>
+      <pubDate>Fri, 29 May 2026 08:07:13 GMT</pubDate>
+      <guid isPermaLink="false">https://suzukidawn9999.github.io/morning-daily-news/audio/2026-05-29.wav</guid>
+      <itunes:duration>600</itunes:duration>
+      <description><![CDATA[テスト原稿です。]]></description>
+    </item>
+    
+  </channel>
+</rss>
