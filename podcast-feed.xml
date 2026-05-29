@@ -9,7 +9,7 @@
     <itunes:author>AIこだわりニュース</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <item>
+  <item>
       <title>AIこだわりニュース 5月29日</title>
       <enclosure url="https://suzukidawn9999.github.io/morning-daily-news/audio/2026-05-29.wav" type="audio/wav" length="0"/>
       <pubDate>Fri, 29 May 2026 08:19:20 GMT</pubDate>
@@ -50,14 +50,6 @@
 1本目は、AWSのアップデートです。AWSがAIエージェント構築向けに設計されたフルマネージドの検索・ベクトルエンジン「Amazon OpenSearch Serverless」の次世代版の一般提供を開始しました。前世代と比べて20倍高速に自動スケーリングし、リソースを数秒でプロビジョニングできます。また使用していない時はリソースをゼロにスケールする機能と従量課金制を組み合わせることで、従来型のクラスタ運用と比べて最大60%のコスト削減が可能とされています。AIエージェントの構築コストを大幅に下げるインフラが整いつつあり、エンタープライズ向けのAI開発がさらに加速しそうです。
 
 2本目は、AWSがデータセンター内の通信設計に関する新しいアーキテクチャ「Random Network Graph」、略]]></description>
-    </item>
-    <item>
-      <title>テスト: 2026-05-29</title>
-      <enclosure url="https://suzukidawn9999.github.io/morning-daily-news/audio/2026-05-29.wav" type="audio/wav" length="0"/>
-      <pubDate>Fri, 29 May 2026 08:07:13 GMT</pubDate>
-      <guid isPermaLink="false">https://suzukidawn9999.github.io/morning-daily-news/audio/2026-05-29.wav</guid>
-      <itunes:duration>600</itunes:duration>
-      <description><![CDATA[テスト原稿です。]]></description>
     </item>
   </channel>
 </rss>
