@@ -2,13 +2,65 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>AIこだわりニュース（対話版）</title>
+    <title>Yourcast（対話版）</title>
     <link>https://suzukidawn9999.github.io/morning-daily-news/</link>
     <description>男女二人のホストによるAIパーソナライズニュースラジオ</description>
     <language>ja</language>
-    <itunes:author>AIこだわりニュース（対話版）</itunes:author>
+    <itunes:author>Yourcast（対話版）</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Yourcast（対話版）5月31日</title>
+      <enclosure url="https://suzukidawn9999.github.io/morning-daily-news/audio/dialogue/2026-05-31.wav" type="audio/wav" length="0"/>
+      <pubDate>Sat, 30 May 2026 19:35:33 GMT</pubDate>
+      <guid isPermaLink="false">https://suzukidawn9999.github.io/morning-daily-news/audio/dialogue/2026-05-31.wav</guid>
+      <itunes:duration>600</itunes:duration>
+      <description><![CDATA[HostA: あきらさん、おはようございます。5月31日のYourcastをお届けします。
+HostB: よろしくお願いします！今日で5月も最終日ですね。
+HostA: そうですね。では早速、国内ニュースから参りましょう。財務省が4月28日から5月27日の為替介入額を発表しました。総額11兆7349億円で、月次ベースとして過去最大規模です。
+HostB: 11兆円超えですか。それは相当な規模ですね。効果のほどはどうだったんでしょう？
+HostA: そこが問題で、足元では再び1ドル159円台まで円安が戻っています。日米金利差や原油高という構造的な要因があるので、介入だけでは限界があるという声が市場で出ています。
+HostB: 資産形成や不動産投資をされているあきらさんにとっても、円安の行方は気になるところですよね。
+HostA: 続いて社会ニュースです。東京女子医大病院で2014年に起きた2歳児死亡事故の判決が出ました。元ICU責任者医師に禁錮1年6月・執行猶予3年の有罪、元研修医には無罪という判決です。
+HostB: 12年越しの司法判断ですね。責任の所在をどう線引きするかが争点だったわけですか。
+HostA: そうです。知識や権限の差が判断の分かれ目になりました。医療現場の指揮命令系統のあり方を改めて問う判決です。
+
+HostA: 次はビジネスニュースです。トヨタがレクサスの次世代EV「LF-ZC」の開発中止を決めたことがわかりました。
+HostB: えっ、ギガキャストも投入する次世代の中核モデルじゃなかったでしたっけ。
+HostA: そうなんです。2027年半ばに生産開始予定でしたが、トランプ政権によるEV支援廃止や世界的な需要減速が背景にあります。各社でEV戦略の見直しが加速していますね。
+HostB: IT投資とも近い話で、「いまどこに張るか」の判断が難しい時代ですね。
+
+HostA: ではAI関連ニュースに移ります。まず大きなニュードですが、AnthropicがシリーズHラウンドで650億ドルの資金調達を発表しました。評価額が9650億ドルとなり、OpenAIを抜いて世界最大のプライベートAI企業になりました。
+HostB: あきらさんが日常的に使っているClaudeを作っているAnthropicですね。OpenAIを評価額で抜くというのはすごいですね。
+HostA: Amazonが50億ドルを追加出資し、MicronやSamsungも参加しています。計算資源の強化が目的で、今後のモデル開発が楽しみです。
+HostB: 続けてGoogleの話題もありますか？
+HostA: はい。「Gemini 3.5 Flash」が一般提供開始です。コーディング能力がGemini 3.1 Proを上回りつつ、低遅延・低コストを実現しています。APIでも使えるので開発者には朗報です。
+HostB: あきらさんはGeminiもバリバリ使ってらっしゃいますし、早速試してみたくなりますね。
+
+HostA: OpenAIのCodexのアップデートも出ています。Windows版でPC画面の操作を自動化する「Computer Use」機能が追加されました。テストやデバッグの自動化が指示できるようになります。
+HostB: 開発の自動化がどんどん進みますね。あきらさんのIT系のお仕事にも関係しそうです。
+HostA: そしてKPMGがClaudeを全世界27万6000人の全従業員に導入すると発表しました。138カ国規模です。
+HostB: コンサルファームのこの規模の導入は象徴的ですね。AIが業務インフラになっていく流れを感じます。
+
+HostA: IT関連では、ソフトバンクグループがフランスに最大5GWのAIデータセンター群を建設すると発表。投資額は最大750億ユーロ、日本円で約12兆円規模です。
+HostB: 12兆円ですか。先ほどの為替介入額とほぼ同じ規模というのが面白い対比ですね。
+HostA: AWSの話も興味深くて、データセンターのネットワーク機器を69%削減し、スループットを33%向上させる新アーキテクチャ「RNG」を標準採用しました。
+HostB: 69%削減ってすごいですね。コスト構造が根本から変わりそうです。
+HostA: Googleは24時間稼働の個人向けAIエージェント「Gemini Spark」を米国で提供開始しました。月額100ドルのAI Ultraプランで、PCがオフでもクラウドで動いてGmailやカレンダーのタスク管理や旅行予約を代行してくれます。
+HostB: 常時動いてくれるエージェントは便利そうですが、日本での提供が待ち遠しいですね。
+
+HostA: ファイナンスです。大手銀行が6月から10年固定の住宅ローン金利をそろって引き上げます。三井住友が3.5%、三菱UFJが3.27%、みずほが3.25%といずれも3%超えです。
+HostB: 不動産投資をされているあきらさんにとって、固定金利の動向は見逃せませんね。変動は据え置きというのも気になります。
+HostA: 長期金利の上昇傾向が続いている以上、今後も引き上げが続く可能性はあります。借り換えや新規ローンのタイミングはしっかり見極めたいところです。
+
+HostA: 最後はRSSのアップデートです。あきらさんがフォローしている田中渓さんが大忙しの週末を過ごされていたようです。YOSHIKIさんとのNewsPicksの生配信でMCを務め、生演奏を2回もおねだりしたとご本人が興奮気味に投稿されていました。
+HostB: しかもXジャパンの大ファンだったと。ランニングのBGMがずっとXの曲だったというエピソードが微笑ましいですね。
+HostA: また田中渓さんは、ゲームのプレイ動画を見ることで「自分でやらなくていい」と感じる現象が、若い世代の「やりたいことが見つからない」につながっているかもしれないという洞察も投稿されていて、これは鋭い視点だなと思いました。
+HostB: 疑似体験の過多という問題ですね。あきらさんもコンテンツと実体験のバランス、日頃から意識されていそうです。
+
+HostA: 以上、今日のYourcastでした。あきらさん、今日も良い一日を！
+HostB: お聴きいただきありがとうございました！]]></description>
+    </item>
     <item>
       <title>AIこだわりニュース（対話版）5月30日</title>
       <enclosure url="https://suzukidawn9999.github.io/morning-daily-news/audio/dialogue/2026-05-30.wav" type="audio/wav" length="0"/>
